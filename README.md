@@ -1,17 +1,17 @@
-<!-- Nguyễn Huy Hiệu (Nguyen Huy Hieu) — Software Engineer, Security R&D @ OPSWAT, Founder of techjobs.vn. AI/LLM security, Kubernetes security (CKS), full-stack, DevSecOps. Hà Nội, Việt Nam. -->
+<!-- Nguyễn Huy Hiệu (Nguyen Huy Hieu) — Software Engineer @ OPSWAT, Founder of techjobs.vn. AI/LLM security, Kubernetes security (CKS), full-stack, DevSecOps. Hà Nội, Việt Nam. -->
 
 <a href="https://techjobs.vn">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Nguyễn Huy Hiệu — Software Engineer, Security R&D at OPSWAT, Founder of techjobs.vn" src="./assets/banner-dark.svg" width="100%">
+    <img alt="Nguyễn Huy Hiệu — Software Engineer at OPSWAT, Founder of techjobs.vn" src="./assets/banner-dark.svg" width="100%">
   </picture>
 </a>
 
 <h1 align="center">Hi, I'm Nguyễn Huy Hiệu 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · <b>Security R&amp;D @ OPSWAT</b> · <b>Founder of <a href="https://techjobs.vn">techjobs.vn</a></b><br>
+  <b>Software Engineer @ OPSWAT</b> · <b>Founder of <a href="https://techjobs.vn">techjobs.vn</a></b><br>
   I build secure systems and tools for developers — from AI/LLM vulnerability research to Kubernetes security and full-stack products.
 </p>
 
@@ -26,7 +26,7 @@
 
 ### ⚡ Now
 
-- 🛡️ **Security R&D at [OPSWAT](https://www.opswat.com)** — working on endpoint & critical-infrastructure security.
+- 🛡️ **Software Engineer at [OPSWAT](https://www.opswat.com)** — a global cybersecurity company protecting critical infrastructure.
 - 🧠 **Building [`aivulndb`](https://github.com/zohuyhieuzo03/aivulndb)** — a normalized, cross-linked database of AI/LLM vulnerabilities (infra · model · artifact · agent layers, incl. MCP tool poisoning & prompt injection).
 - ☸️ **Preparing for CKS** (Certified Kubernetes Security Specialist) — exam Oct 2026.
 - 🚀 **Running [techjobs.vn](https://techjobs.vn)** — connecting Vietnamese developers with great tech jobs.
@@ -64,8 +64,8 @@
 
 | When | Where | Role |
 |---|---|---|
-| Now | **OPSWAT** | Security R&D |
-| 2024 – 2025 | **Remitano** (crypto exchange) | Full-stack Developer — KYC service, anomaly detection on AWS CloudWatch |
+| 2026 – now | **OPSWAT** (cybersecurity) | Software Engineer |
+| 2024 – 2026 | **Remitano** (crypto exchange) | Full-stack Developer — KYC service, anomaly detection on AWS CloudWatch |
 | 2023 – 2024 | **Teko** | Software Engineer — FastAPI, Go monorepo, Flutter, CI/CD (-20% build time) |
 | 2022 – 2023 | **VNU-UET SE Lab** | Researcher — source code dependency analysis (+60% speed), published paper |
 
@@ -75,7 +75,7 @@
 <summary><b>🇻🇳 Giới thiệu bằng tiếng Việt</b></summary>
 <br>
 
-Mình là **Nguyễn Huy Hiệu**, kỹ sư phần mềm tại Hà Nội, hiện làm **Security R&D tại OPSWAT** và là **founder của [techjobs.vn](https://techjobs.vn)** — nền tảng **việc làm IT** kết nối lập trình viên Việt Nam với các công ty công nghệ.
+Mình là **Nguyễn Huy Hiệu**, kỹ sư phần mềm tại Hà Nội, hiện là **Software Engineer tại OPSWAT** và là **founder của [techjobs.vn](https://techjobs.vn)** — nền tảng **việc làm IT** kết nối lập trình viên Việt Nam với các công ty công nghệ.
 
 Mình quan tâm tới **bảo mật AI/LLM**, **bảo mật Kubernetes (CKS)**, **DevSecOps** và phát triển **full-stack**. Cựu sinh viên **UET – ĐHQGHN**, từng đạt giải **ICPC** và **vô địch Procon Việt Nam 2023**.
 

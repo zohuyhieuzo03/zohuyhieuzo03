@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
-  <title id="t">Nguyễn Huy Hiệu — Software Engineer, Security R&amp;D, Founder of techjobs.vn</title>
+  <title id="t">Nguyễn Huy Hiệu — Software Engineer at OPSWAT, Founder of techjobs.vn</title>
   <desc id="d">Terminal-style banner: whoami prints Nguyễn Huy Hiệu; current focus is AI/LLM security, Kubernetes security (CKS), full-stack and DevSecOps.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
@@ -32,7 +32,7 @@
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
     <text x="40" y="96" font-size="18" clip-path="url(#c1)"><tspan fill="#0A7F4F">~/hieu</tspan><tspan fill="#B45309"> ❯ </tspan><tspan fill="#1B1F24">whoami</tspan></text>
     <text x="40" y="152" font-size="46" font-weight="700" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" fill="#1B1F24" clip-path="url(#c2)">Nguyễn Huy Hiệu</text>
-    <text x="40" y="190" font-size="18" fill="#4B5563" clip-path="url(#c3)">Software Engineer <tspan fill="#B45309">·</tspan> Security R&amp;D @ OPSWAT <tspan fill="#B45309">·</tspan> Founder of <tspan fill="#0A7F4F">techjobs.vn</tspan></text>
+    <text x="40" y="190" font-size="18" fill="#4B5563" clip-path="url(#c3)">Software Engineer @ OPSWAT <tspan fill="#B45309">·</tspan> Founder of <tspan fill="#0A7F4F">techjobs.vn</tspan></text>
     <text x="40" y="238" font-size="18" clip-path="url(#c4)"><tspan fill="#0A7F4F">~/hieu</tspan><tspan fill="#B45309"> ❯ </tspan><tspan fill="#1B1F24">cat now.txt</tspan></text>
     <text x="40" y="276" font-size="18" fill="#4B5563" clip-path="url(#c5)">AI/LLM security <tspan fill="#B45309">·</tspan> Kubernetes security (CKS) <tspan fill="#B45309">·</tspan> Full-stack <tspan fill="#B45309">·</tspan> DevSecOps</text>
     <rect x="40" y="296" width="11" height="20" fill="#0A7F4F" opacity="0">
