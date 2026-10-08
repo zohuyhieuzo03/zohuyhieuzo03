@@ -39,7 +39,6 @@
 | [**techjobs.vn**](https://techjobs.vn) | IT job board & developer community for Vietnam | Full-stack |
 | [**AI-Prompt-Store**](https://github.com/zohuyhieuzo03/AI-Prompt-Store) | Store for sharing & discovering AI prompts · [live](https://ai-prompt-store.vercel.app) | Next.js · Supabase |
 | [**voz_summarize**](https://github.com/zohuyhieuzo03/voz_summarize) | Telegram bot that crawls long VOZ forum threads and summarizes them with Gemini | Python · Flask |
-| [**kinobi-upload-app**](https://github.com/zohuyhieuzo03/kinobi-upload-app) | Responsive image upload & management app · [live](https://kinobi-upload-app.vercel.app) | Nuxt · Vuetify · Firebase |
 | [**ExpenseTracker**](https://github.com/zohuyhieuzo03/ExpenseTracker) | Telegram bot for tracking personal expenses | Python |
 
 ### 🏆 Competitive programming & awards
