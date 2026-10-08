@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+  <title id="t">Nguyễn Huy Hiệu — Software Engineer, Security R&amp;D, Founder of techjobs.vn</title>
+  <desc id="d">Terminal-style banner: whoami prints Nguyễn Huy Hiệu; current focus is AI/LLM security, Kubernetes security (CKS), full-stack and DevSecOps.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#E6EDF3" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.86" cy="0.2" r="0.55">
+      <stop offset="0" stop-color="#3FB950" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#3FB950" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c1"><rect x="40" y="70" height="40" width="0"><animate attributeName="width" from="0" to="400" begin="0.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="112" height="52" width="0"><animate attributeName="width" from="0" to="760" begin="1.0s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="168" height="30" width="0"><animate attributeName="width" from="0" to="860" begin="1.9s" dur="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="40" y="212" height="40" width="0"><animate attributeName="width" from="0" to="400" begin="3.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="40" y="254" height="30" width="0"><animate attributeName="width" from="0" to="860" begin="4.0s" dur="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="shieldClip"><path d="M1040 70 L1120 98 V170 C1120 222 1086 254 1040 274 C994 254 960 222 960 170 V98 Z"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="340" rx="16" fill="#0B0F14"/>
+  <rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="15.5" fill="none" stroke="#E6EDF3" stroke-opacity="0.1"/>
+
+  <!-- window chrome -->
+  <path d="M0 16 A16 16 0 0 1 16 0 H1184 A16 16 0 0 1 1200 16 V44 H0 Z" fill="#E6EDF3" fill-opacity="0.04"/>
+  <circle cx="28" cy="22" r="6" fill="#FF5F57"/>
+  <circle cx="50" cy="22" r="6" fill="#FEBC2E"/>
+  <circle cx="72" cy="22" r="6" fill="#28C840"/>
+  <text x="600" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">hieu@hanoi: ~/zohuyhieuzo03</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="40" y="96" font-size="18" clip-path="url(#c1)"><tspan fill="#3FB950">~/hieu</tspan><tspan fill="#F0A500"> ❯ </tspan><tspan fill="#E6EDF3">whoami</tspan></text>
+    <text x="40" y="152" font-size="46" font-weight="700" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" fill="#E6EDF3" clip-path="url(#c2)">Nguyễn Huy Hiệu</text>
+    <text x="40" y="190" font-size="18" fill="#9DA7B3" clip-path="url(#c3)">Software Engineer <tspan fill="#F0A500">·</tspan> Security R&amp;D @ OPSWAT <tspan fill="#F0A500">·</tspan> Founder of <tspan fill="#3FB950">techjobs.vn</tspan></text>
+    <text x="40" y="238" font-size="18" clip-path="url(#c4)"><tspan fill="#3FB950">~/hieu</tspan><tspan fill="#F0A500"> ❯ </tspan><tspan fill="#E6EDF3">cat now.txt</tspan></text>
+    <text x="40" y="276" font-size="18" fill="#9DA7B3" clip-path="url(#c5)">AI/LLM security <tspan fill="#F0A500">·</tspan> Kubernetes security (CKS) <tspan fill="#F0A500">·</tspan> Full-stack <tspan fill="#F0A500">·</tspan> DevSecOps</text>
+    <rect x="40" y="296" width="11" height="20" fill="#3FB950" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.5;0.51" dur="1s" begin="5.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- shield + scan line -->
+  <g>
+    <path d="M1040 70 L1120 98 V170 C1120 222 1086 254 1040 274 C994 254 960 222 960 170 V98 Z" fill="#3FB950" fill-opacity="0.06" stroke="#3FB950" stroke-opacity="0.7" stroke-width="2"/>
+    <path d="M1040 92 L1100 113 V170 C1100 208 1076 234 1040 250 C1004 234 980 208 980 170 V113 Z" fill="none" stroke="#3FB950" stroke-opacity="0.25" stroke-dasharray="4 6"/>
+    <path d="M1012 170 L1032 190 L1072 146" fill="none" stroke="#3FB950" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="100" stroke-dashoffset="100">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" begin="5.4s" dur="0.6s" fill="freeze"/>
+    </path>
+    <g clip-path="url(#shieldClip)">
+      <rect x="950" y="60" width="180" height="3" fill="#3FB950" opacity="0.8">
+        <animate attributeName="y" values="60;276;60" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <text x="1160" y="318" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#7D8590" letter-spacing="1.5">HÀ NỘI, VN · UTC+7</text>
+</svg>
