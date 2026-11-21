@@ -49,6 +49,23 @@
 - 🥈 **Second Prize** — ICPC Vietnam National 2021
 - 🥇 **First Prize** — IAI Hackathon (UET) 2023 · Coding Inspiration Hackathon 2023
 
+### 🔓 Security research — published advisories
+
+Independent vulnerability research across open-source projects, disclosed via GitHub Security Advisories (GHSA). 8 published so far, credited as reporter/finder.
+
+| Severity | CVSS | Advisory | Issue |
+|---|---|---|---|
+| 🔴 Critical | 9.8 | [PraisonAI — GHSA-9426-q567-pc36](https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-9426-q567-pc36) | Security hardening across servers, file and network access |
+| 🟠 High | 7.7 | [MikroDash — GHSA-mcwr-rm79-fr4h](https://github.com/SecOps-7/MikroDash/security/advisories/GHSA-mcwr-rm79-fr4h) | Delegated device manager can read a router's stored RouterOS password |
+| 🟡 Medium | 6.5 | [anymd — GHSA-8xpx-j7h9-4fpf](https://github.com/SylphxAI/anymd/security/advisories/GHSA-8xpx-j7h9-4fpf) | EPUB spine repetition causes unbounded CPU/memory amplification (DoS) |
+| 🟡 Medium | 5.4 | [Homer — GHSA-9r5f-8f6c-8pff](https://github.com/sipcapture/homer/security/advisories/GHSA-9r5f-8f6c-8pff) | Non-admin users can write subscriptions and delete all alerts |
+| 🟡 Medium | 5.3 | [Moquette — GHSA-x2j5-qv8x-pv3j](https://github.com/moquette-io/moquette/security/advisories/GHSA-x2j5-qv8x-pv3j) | Session takeover replays queued messages without re-authorization |
+| 🟢 Low | 3.7 | [mppx-condition-gate — GHSA-jxpm-8jpg-38xc](https://github.com/insumerapi/mppx-condition-gate/security/advisories/GHSA-jxpm-8jpg-38xc) | Attestation cache lets a stricter route's wallet reuse a looser route's grant |
+| 🟢 Low | 3.3 | [fallow — GHSA-h858-c8f4-h92c](https://github.com/fallow-rs/fallow/security/advisories/GHSA-h858-c8f4-h92c) | `migrate` writes through a dangling symlink, escaping the project root |
+| 🟢 Low | 3.1 | [mcp-atlassian — GHSA-qx5g-fhgg-wm59](https://github.com/sooperset/mcp-atlassian/security/advisories/GHSA-qx5g-fhgg-wm59) | Residual JIRA project filter leak via epic cross-reference fetch |
+
+<p><sub>More in progress — see <a href="https://github.com/zohuyhieuzo03/aivulndb">aivulndb</a> for the broader AI/LLM vulnerability tracking project.</sub></p>
+
 ### 🛠️ Tech stack
 
 <p>
